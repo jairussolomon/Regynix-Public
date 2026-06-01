@@ -1,0 +1,51 @@
+
+
+Working Directory = /home/icd17/23BVD1040/Regynix
+QoS Summary for testdesign
+================================================================================
+Metric                          gen             map             iopt           
+================================================================================
+Slack (ps):                    -2,688          -2,182            -883
+  R2R (ps):                    -2,688          -2,182            -883
+  I2R (ps):                     1,390           1,400           1,400
+  R2O (ps):                     1,142           1,275           1,275
+  I2O (ps):                  no_value        no_value        no_value
+  CG  (ps):                  no_value        no_value        no_value
+TNS (ps):                    -890,063        -831,985        -295,266
+  R2R (ps):                  -890,063        -831,985        -295,266
+  I2R (ps):                         0               0               0
+  R2O (ps):                         0               0               0
+  I2O (ps):                  no_value        no_value        no_value
+  CG  (ps):                  no_value        no_value        no_value
+Failing Paths:                    421             427             408
+Cell Area:                     72,982          36,840          44,881
+Total Cell Area:               72,982          36,840          44,881
+Leaf Instances:                23,402          16,167          22,799
+Total Instances:               23,402          16,167          22,799
+Utilization (%):                 0.00            0.00            0.00
+Tot. Net Length (um):        no_value        no_value        no_value
+Avg. Net Length (um):        no_value        no_value        no_value
+Route Overflow H (%):        no_value        no_value        no_value
+Route Overflow V (%):        no_value        no_value        no_value
+MBCI(%) (bits/gate) :            0.00            0.00            0.00
+Norm Cong Hotspot Area:
+  Max Cong:                  no_value        no_value        no_value
+  Tot Cong:                  no_value        no_value        no_value
+================================================================================
+CPU  Runtime (h:m:s):        00:39:25        00:31:25        00:43:56
+Real Runtime (h:m:s):        00:36:33        00:30:53        00:42:59
+CPU  Elapsed (h:m:s):        00:39:28        00:40:53        00:54:49
+Real Elapsed (h:m:s):        00:36:34        00:37:27        00:50:26
+Memory (MB):                  2008.77         2008.80         2004.61
+================================================================================
+================================================================================
+Flow Settings:
+================================================================================
+Total Runtime (h:m:s): 00:50:27
+Total Memory (MB):     2012.62
+Executable Version:    21.14-s082_1
+================================================================================
+Total Cell Area =  Cell Area + Physical Cell Area
+Total Instances =  Leaf Instances + Physical Instances
+
+
